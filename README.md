@@ -1,5 +1,5 @@
 # web_scraper
-Client-server based console app "web-scraper" calculates the exact number of the lead paragraphs and also images in the webpage. 
+Client-server based console app "web-scraper" calculates the exact number of the leaf paragraphs and also images in the webpage. 
 
 ## Installation
 
