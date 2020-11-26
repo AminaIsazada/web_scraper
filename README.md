@@ -2,10 +2,10 @@
 Client-server based console app "web-scraper" calculates the exact number of the leaf paragraphs and also images in the webpage. 
 
 ## Installation
-
-   git clone https://github.com/AminaIsazada/web_scraper.git
-
-   pip3 install -r requirements.txt
+### Clone repository
+    git clone https://github.com/AminaIsazada/web_scraper.git
+### Install requirements
+    pip3 install -r requirements.txt
 
 ## Usage
 ### Server terminal
